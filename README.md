@@ -69,7 +69,7 @@ Comments
 
 Clone repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/task-manager-frontend
+git clone https://github.com/hadisubhana/task-manager-frontend
 ```
 Install dependencies
 ```bash
