@@ -108,18 +108,6 @@ https://github.com/hadisubhana/task-management-api
 
 ---
 
-# Live Demo
-
-Frontend
-
-https://your-frontend-url
-
-API
-
-https://your-api-url/api
-
----
-
 # Author
 
 Hadi Subhana Malik
